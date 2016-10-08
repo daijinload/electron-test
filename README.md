@@ -1,1 +1,5 @@
-# electron-test
+# run
+
+```bash
+electron main.js
+```

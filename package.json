@@ -18,5 +18,8 @@
   "homepage": "https://github.com/daijinload/electron-test#readme",
   "dependencies": {
     "electron": "^1.4.3"
+  },
+  "devDependencies": {
+    "devtron": "^1.4.0"
   }
 }
